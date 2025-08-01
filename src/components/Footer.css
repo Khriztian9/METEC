@@ -1,0 +1,30 @@
+.footer-section {
+  padding: 40px 0;
+  background-color: #121212;
+}
+
+.footer-title {
+  font-size: 1.4rem;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.footer-text {
+  font-size: 1rem;
+  color: #cccccc;
+}
+
+.footer-icon {
+  font-size: 1.6rem;
+  color: #ffffff;
+  transition: color 0.3s ease;
+}
+
+.footer-icon:hover {
+  color: #0d6efd; /* Azul Bootstrap */
+}
+
+.footer-copy {
+  font-size: 0.9rem;
+  color: #aaaaaa;
+}

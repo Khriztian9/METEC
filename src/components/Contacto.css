@@ -1,0 +1,26 @@
+.contacto-section {
+  background-color: #f1f3f5;
+  padding: 80px 0;
+}
+
+.contacto-title {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #212529;
+}
+
+.contacto-subtext {
+  font-size: 1.1rem;
+  color: #495057;
+}
+
+.form-control {
+  border-radius: 8px;
+  padding: 0.75rem;
+}
+
+.btn-primary {
+  padding: 0.6rem 2rem;
+  font-weight: 600;
+  border-radius: 8px;
+}

@@ -1,0 +1,36 @@
+/* Navbar general */
+.navbar {
+  padding: 1rem 1.5rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  z-index: 1000;
+}
+
+/* Marca / logo */
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #ffffff !important;
+  letter-spacing: 0.5px;
+}
+
+/* Enlaces de navegación */
+.nav-link {
+  color: #ffffff !important;
+  font-weight: 500;
+  margin-left: 1rem;
+  transition: color 0.2s ease;
+}
+
+.nav-link:hover {
+  color: #0d6efd !important; /* Azul Bootstrap */
+}
+
+/* Colapsable en móviles */
+.navbar-toggler {
+  border: none;
+}
+
+/* Fondo oscuro personalizado */
+.navbar.bg-dark {
+  background-color: #1c1c1c !important;
+}
